@@ -18,16 +18,6 @@ CryptoBuddy is a beginner-friendly, rule-based chatbot built in Python that prov
 - Simple decision logic using `if-else`
 
 ---
-
-## 🚀 How to Run
-
-1. Clone the repo or download the project folder.
-2. Open the folder in **VS Code** (or your IDE of choice).
-3. Make sure Python 3 is installed.
-4. Run the chatbot:
-
-```bash
-python chatbot.py
 ## 📸 Screenshots
 
 ### 🤖 Chatbot Startup
@@ -38,3 +28,13 @@ python chatbot.py
 
 ### 🚀 Investment Recommendation
 ![Investment Tip](screenshots/screenshot3.png)
+## 🚀 How to Run
+
+1. Clone the repo or download the project folder.
+2. Open the folder in **VS Code** (or your IDE of choice).
+3. Make sure Python 3 is installed.
+4. Run the chatbot:
+
+```bash
+python chatbot.py
+
